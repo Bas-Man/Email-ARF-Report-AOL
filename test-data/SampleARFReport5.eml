@@ -1,0 +1,223 @@
+Received: (qmail 30628 invoked by uid 1013); 23 Jul 2008 15:40:18 +0900
+Delivered-To: infra@websofttt.com
+Received: (qmail 30609 invoked by uid 1013); 23 Jul 2008 15:40:18 +0900
+Delivered-To: postmaster@websofttt.net
+Received: (qmail 30598 invoked by uid 1014); 23 Jul 2008 15:40:17 +0900
+Received: from 205.188.249.68 by tky-ch2.websofttt.net (envelope-from
+ <scomp@aol.net>, uid 1013) with qmail-scanner-1.25-st-qms  (clamdscan:
+ 0.90.2/3156. spamassassin: 3.1.7. perlscan: 1.25-st-qms.  
+ Clear:RC:0(205.188.249.68):SA:0(0.6/5.0):.  Processed in 15.847566 secs); 23
+ Jul 2008 06:40:17 -0000
+X-Spam-Status: No, hits=0.6 required=5.0
+X-Spam-Report: SA TESTS 1.0 NO_REAL_NAME           From: does not include a
+ real name -2.6 BAYES_00               BODY: Bayesian spam probability is 0 to
+ 1% [score: 0.0000] 2.3 AWL                    AWL: From: address is in the
+ auto white-list
+X-Antivirus-WebsoftTT-Mail-From: scomp@aol.net via tky-ch2.websofttt.net
+X-Antivirus-WebsoftTT: 1.25-st-qms
+ (Clear:RC:0(205.188.249.68):SA:0(0.6/5.0):. Processed in 15.847566 secs
+ Process 30305)
+Received: from omr-d24.mx.aol.com (205.188.249.68) by tky-ch2.websofttt.net
+ with SMTP; 23 Jul 2008 15:40:01 +0900
+Received: from scmp-d06.mail.aol.com (scmp-d06.mail.aol.com [172.18.176.225])
+ by omr-d24.mx.aol.com (v117.7) with ESMTP id MAILOMRD244-7d7c4886d22793; Wed,
+ 23 Jul 2008 02:39:35 -0400
+Received: from scomp@aol.net by scmp-d06.mail.aol.com; Wed, 23 Jul 2008
+ 02:39:32 EDT
+To: postmaster@websofttt.net
+From: scomp@aol.net
+Date: Wed, 23 Jul 2008 02:39:32 EDT
+Subject: Email Feedback Report for IP 203.190.229.244
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=feedback-report; boundary="boundary-1138-29572-2659438-18169"
+X-AOL-INRLY: tky-ijc.websofttt.net [203.190.229.244] scmp-d06
+X-Loop: scomp
+X-AOL-IP: 172.18.176.225
+Message-ID: <200807230239.7d7c4886d22793@omr-d24.mx.aol.com>
+Lines: 185
+
+--boundary-1138-29572-2659438-18169
+Content-Type: text/plain; charset="US-ASCII"
+Content-Transfer-Encoding: 7bit
+
+This is an email abuse report for an email message received from IP address 203.190.229.244 on Wed, 23 Jul 2008 00:53:50 -0400
+
+For information, please review the top portion of the following page:
+http://postmaster.aol.com/tools/fbl.html
+
+For information about AOL E-mail guidelines, please see
+http://postmaster.aol.com/guidelines/
+
+If you would like to cancel or change the configuration for your FBL please contact our postmaster help desk. Up to date contact information for the postmaster help desk is located at
+http://postmaster.aol.com/contact
+
+
+--boundary-1138-29572-2659438-18169
+Content-Disposition: inline
+Content-Type: message/feedback-report
+
+Feedback-Type: abuse
+User-Agent: AOL SComp
+Version: 0.1
+Received-Date: Wed, 23 Jul 2008 00:53:50 -0400
+Source-IP: 203.190.229.244
+Reported-Domain: tky-ijc.websofttt.net
+Redacted-Address: redacted
+Redacted-Address: redacted@
+
+
+--boundary-1138-29572-2659438-18169
+Content-Type: message/rfc822
+Content-Disposition: inline
+
+Return-Path: <daijob.wir.jp_20080723134530.7891_16141@ret.websofttt.net>
+Received: from rly-de01.mx.aol.com (rly-de01.mail.aol.com [172.19.170.137]) by air-de05.mail.aol.com (v121.5) with ESMTP id MAILINDE052-4ac4886b94c114; Wed, 23 Jul 2008 00:53:50 -0400
+Received: from tky-ijc.websofttt.net (tky-ijc.websofttt.net [203.190.229.244]) by rly-de01.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDE011-4ac4886b94c114; Wed, 23 Jul 2008 00:53:33 -0400
+Received: from localhost.localdomain (tky-ijc.websofttt.net [127.0.0.1])
+	by tky-ijc.websofttt.net (8.13.1/8.13.1) with ESMTP id m6N4rDfo031088
+	for <redacted>; Wed, 23 Jul 2008 13:53:32 +0900
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+Subject: The WorkinJapan.com Newsletter Issue 376
+Date: Wed, 23 Jul 2008 13:45:30 +0900
+Message-ID: <20080723134530.7891_16141@daijob.wir.jp>
+Reply-To: djcontents@daijob.com
+To: redacted@aol.com
+From: djcontents@daijob.com
+X-AOL-IP: 203.190.229.244
+X-AOL-SCOLL-AUTHENTICATION: listenair ; SPF_helo : n
+X-AOL-SCOLL-AUTHENTICATION: listenair ; SPF_822_from : +
+X-Mailer: Unknown (No Version)
+
+
+The WorkinJapan.com Newsletter Issue 376
+ 23 July 2008 
+ http://daijob.wir.jp/d.ut?t=9wHnDds5T
+======================================================================
+ In This Issue
+ - Search Jobs
+ - Jobs by Industry
+ - Job Line Up
+ - Hot Jobs
+ - Reflections on Life in Japan by Taras A. Sak: Guests and Hosts in 
+   Japan, Part I
+ - Terrie's Job Tips: The Power of Stories as a Recruiting Tool
+
+======================================================================
+ Search Jobs: Find your dream job!
+ You can search by job type, location, salary, and/or
+ Japanese/English level. Click the link below to get started!
+ http://daijob.wir.jp/d.ut?t=9wHZj1WsT
+
+======================================================================
+ Jobs by Industry
+ - Financial Market/Investment Bank
+   http://daijob.wir.jp/d.ut?t=9wHdKwc9T
+ - Marketing/PR
+   http://daijob.wir.jp/d.ut?t=9wHgyqhTT
+ - Creative
+   http://daijob.wir.jp/d.ut?t=9wHkbkmnT
+
+======================================================================
+ Job Line Up 
+
+ Skillhouse Staffing Solutions
+ - Market Data Engineer - JPY 6.0M - 9.0M
+ - Project Manager / IT Manager - JPY 8.0M - 15.0M
+ - QA/Tester - JPY 5.0M - 7.0M
+   http://daijob.wir.jp/d.ut?t=9wHzmGBKT
+
+ Executive Search International
+ - Accountant/Senior Accountant - DOE
+ - Business Manager - Commercial Real Estate - DOE
+ - Acquisitions - Real Estate - DOE
+   http://daijob.wir.jp/d.ut?t=9wJ2P9GdT
+======================================================================
+ Hot Jobs
+
+ Senior Programmer 
+    Salary: JPY 6.0M - 9.0M+
+    Industry: Education
+    Location: Tokyo, Europe
+    English Level: Fluent (TOEIC 865-)
+    Japanese Level: None
+    http://daijob.wir.jp/d.ut?t=9wHtVS1jT
+
+ Systems Engineer
+    Salary: JPY 3.0M - 6.5M
+    Industry: Outsourcing
+    Location: North America
+    English Level: Business Conversation Level (TOEIC 735-860)
+    Japanese Level: Fluent (JLPT Level 1)
+    http://daijob.wir.jp/d.ut?t=9wHx7M61T
+
+ =======================================================================
+ Reflections on Life in Japan by Taras A. Sak: Guests and Hosts in 
+ Japan, Part I
+
+ Philosophers have reminded us that the word "host" is related to 
+ "hostage," and that the distance between hospitality and hostility is 
+ less than we would like to think. In some languages, such as French 
+ (with the term "l'hote"), the distinction between host and guest is 
+ either unknown or ambiguous at best. In any case, it is an 
+ interesting example of a relational concept, regardless of the language 
+ involved, which cannot stand in isolation - to be a host, in other 
+ words, one needs a guest. 
+
+ Read the full story!
+ http://daijob.wir.jp/d.ut?t=9wHTRCMFT
+
+======================================================================
+ Terrie's Job Tips: The Power of Stories as a Recruiting Tool
+
+ Apart from money, the main reason people join a company is because of 
+ an emotional resonance they feel after reading or hearing about some 
+ particular aspect of that company which indicates that it would be a 
+ good place to work. This aspect of recruiting is very important, 
+ because it causes good candidates to choose companies that otherwise 
+ aren't sufficiently mainstream or famous enough to normally 
+ attract them. 
+
+ Read the full story! 
+ http://daijob.wir.jp/d.ut?t=9wHX46RYT
+
+======================================================================
+ Who Wants to Find a Job?
+
+ Did you know that when companies/recruiters search for candidates, 
+ they usually contact people with recently updated resumes?
+
+ By frequently updating your resume, you can show: 
+ - Your enthusiasm for potential opportunities
+ - The skills and experiences you have gained since the last time
+   you updated your resume 
+
+ Update your resume today!
+ http://daijob.wir.jp/d.ut?t=9wHQpJGxT
+
+*--------------------------------------------------------------------*
+ ---Tell a Friend About the WorkinJapan.com Newsletter--- 
+ 
+ Do you enjoy your subscription to this newsletter? Tell others! Help 
+ your friends and colleagues stay on top of opportunities to work in
+ Japan with a free subscription to the WorkinJapan.com newsletter.
+ 
+ Subscribing is easy!  Click on the URL below and type your 
+ email address into the WorkinJapan newsletter section.  
+ Subscription will begin within 24 hours.
+ http://daijob.wir.jp/d.ut?t=9wJ524LxT
+
+*---------------------------------------------------------------------*
+ Contact Us: http://daijob.wir.jp/d.ut?t=9wHqsXxPT
+ Unsubscribe: http://daijob.wir.jp/d.ut?t=9wJ7fzRFT
+
+======================================================================
+ Copyright 2008 Daijob, Inc. All rights reserved.
+
+Powered by WebSoftTT - Your Total E-Marketing Solution http://www.websofttt.com
+
+
+
+--boundary-1138-29572-2659438-18169--
