@@ -35,13 +35,16 @@ sub new {
   Carp::croak "no report source provided" unless $source;
 
   my $report;
+
   eval {
     $report = Email::ARF::Report->new($source);
   };
-    my $self = bless {};
+
+  my $self = bless {};
+  
   ## Catch Exception when Email is not and ARF Format
   if (!$@) {
-    ## This is and ARF formated Email
+    ## This is an ARF formated Email
     $self->{report} = $report;
     $self->_getdata;
     $self->{is_ARF} = 1;
@@ -128,6 +131,7 @@ sub _getdata {
 sub _returnpath {
 
   my $self = shift;
+
   ## This test will come back to bite me in the ass. 
   if ($$self->{returnpath} =~ m/\@(ret|bounce)\.websofttt\.net/) {
     my ($domain,$distributionid,$seqid) = split (/_/,$$self->{returnpath});
@@ -192,7 +196,7 @@ Given either an Email::MIME object or a string containing the text of an email m
   Email Object->is_arf will be true and the object will be initiated. if Object->is_arf is
    false then Email::ARF::Report object will also not be valid.
 
-=head3 is_arf_
+=head3 is_arf
 
   my $ARF_Email = $email->is_arf;
 
