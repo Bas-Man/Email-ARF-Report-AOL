@@ -9,4 +9,4 @@ WriteMakefile(
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/Email/ARF/Report/AOL.pm', # retrieve abstract from module
        AUTHOR         => 'Adam Spann <baspann@gmail.com>') : ()),
-);
+)
