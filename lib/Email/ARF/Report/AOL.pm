@@ -146,7 +146,9 @@ sub _returnpath {
 }
 
 1;
+
 __END__
+
 =head1 NAME
 
 Email::ARF::Report::AOL - Perl extension for processing Abuse Report Formated Emails from AOL
@@ -185,7 +187,10 @@ None by default.
 
 =head3 new
 
-Given either an Email::MIME object or a string containing the text of an email message, this method returns a new Email::ARF::Report::AOL Object. If it is a valid ARF formatted Email Object->is_arf will be true and the object will be initiated. if Object->is_arf is false then Email::ARF::Report object will also not be valid.
+Given either an Email::MIME object or a string containing the text of an email message,
+ this method returns a new Email::ARF::Report::AOL Object. If it is a valid ARF formatted
+  Email Object->is_arf will be true and the object will be initiated. if Object->is_arf is
+   false then Email::ARF::Report object will also not be valid.
 
 =head3 is_arf_
 
@@ -259,7 +264,7 @@ For additional functionality please refer to Email::ARF::Report module
 
 =head1 AUTHOR
 
-Adam Spann, E<lt>anospam.comE<gt>
+Adam Spann, E<lt>baspann@gmail.comE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
