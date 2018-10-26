@@ -5,7 +5,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     NAME              => 'Email::ARF::Report::AOL',
     VERSION_FROM      => 'lib/Email/ARF/Report/AOL.pm', # finds $VERSION
-    PREREQ_PM         => {Email::ARF::Report => 0.003}, # e.g., Module::Name => 1.1
+    PREREQ_PM         => { Email::ARF::Report => 0.003 }, # e.g., Module::Name => 1.1
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/Email/ARF/Report/AOL.pm', # retrieve abstract from module
        AUTHOR         => 'Adam Spann <baspann@gmail.com>') : ()),
