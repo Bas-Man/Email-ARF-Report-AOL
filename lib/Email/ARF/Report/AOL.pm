@@ -125,11 +125,12 @@ sub _getdata {
   $self->{servername} = $self->report->field('Reported-Domain');
   $self->{serverip} = $self->report->field('Source-IP');
   $self->{messageid} = $self->report->original_email->header('Message-ID');
-  &_returnpath(\$self);
+  &_returnpath(\$self); # Self is passed as a reference in this function
 }
 
 sub _returnpath {
 
+  # Note that self is reference and hence needs $$ to dereference within this function.
   my $self = shift;
 
   ## This test will come back to bite me in the ass. 
