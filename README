@@ -1,16 +1,17 @@
 Email-ARF-Report-AOL version 0.01
 =================================
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
+This was an early attempt to add some internal support for abuse email processing.
 
-A README file is required for CPAN modules since CPAN extracts the
-README file from a module distribution so that people browsing the
-archive can use it get an idea of the modules uses. It is usually a
-good idea to provide version information here so that people can
-decide whether fixes for the module are worth downloading.
+This was done by extending the an existing module to extract specific required details for
+the companies individual needs.
+
+The code however was never utilised.
+
+From recent research it also appears that the specification for xarf reporting has changed slightly.
+Hence this code may not be as functional as it had once been.
+
+I have added some useful links which may be of use moving forard.
 
 INSTALLATION
 
@@ -25,7 +26,17 @@ DEPENDENCIES
 
 This module requires these other modules and libraries:
 
-  blah blah blah
+Useful Links:
+
+https://www.abusix.com/contactdb
+http://xarf.org
+https://github.com/xarf/xarf-specification
+https://tools.ietf.org/html/rfc5965
+https://tools.ietf.org/html/draft-shafranovich-feedback-report-08
+
+
+
+
 
 COPYRIGHT AND LICENCE
 
