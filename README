@@ -4,7 +4,7 @@ Email-ARF-Report-AOL version 0.01
 This was an early attempt to add some internal support for abuse email processing.
 
 This was done by extending the an existing module to extract specific required details for
-the companies individual needs.
+the company's individual needs.
 
 The code however was never utilised.
 
