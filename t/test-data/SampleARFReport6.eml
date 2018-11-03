@@ -1,9 +1,9 @@
 Received: (qmail 23585 invoked by uid 1013); 23 Jul 2008 06:13:42 +0900
-Delivered-To: infra@websofttt.com
+Delivered-To: infra@sendingdomain.com
 Received: (qmail 23575 invoked by uid 1013); 23 Jul 2008 06:13:42 +0900
-Delivered-To: postmaster@websofttt.net
+Delivered-To: postmaster@sendingdomain.net
 Received: (qmail 23568 invoked by uid 1014); 23 Jul 2008 06:13:42 +0900
-Received: from 64.12.136.131 by tky-ch2.websofttt.net (envelope-from
+Received: from 64.12.136.131 by tky-ch2.sendingdomain.net (envelope-from
  <scomp@aol.net>, uid 1013) with qmail-scanner-1.25-st-qms  (clamdscan:
  0.90.2/3156. spamassassin: 3.1.7. perlscan: 1.25-st-qms.  
  Clear:RC:0(64.12.136.131):SA:0(0.6/5.0):.  Processed in 4.212442 secs); 22
@@ -13,23 +13,23 @@ X-Spam-Report: SA TESTS 1.0 NO_REAL_NAME           From: does not include a
  real name -2.6 BAYES_00               BODY: Bayesian spam probability is 0 to
  1% [score: 0.0000] 0.0 HTML_MESSAGE           BODY: HTML included in message
  2.3 AWL                    AWL: From: address is in the auto white-list
-X-Antivirus-WebsoftTT-Mail-From: scomp@aol.net via tky-ch2.websofttt.net
-X-Antivirus-WebsoftTT: 1.25-st-qms (Clear:RC:0(64.12.136.131):SA:0(0.6/5.0):.
+X-Antivirus-sendingdomain-Mail-From: scomp@aol.net via tky-ch2.sendingdomain.net
+X-Antivirus-sendingdomain: 1.25-st-qms (Clear:RC:0(64.12.136.131):SA:0(0.6/5.0):.
  Processed in 4.212442 secs Process 23558)
-Received: from omr-m23.mx.aol.com (64.12.136.131) by tky-ch2.websofttt.net
+Received: from omr-m23.mx.aol.com (64.12.136.131) by tky-ch2.sendingdomain.net
  with SMTP; 23 Jul 2008 06:13:37 +0900
 Received: from scmp-m01.mail.aol.com (scmp-m01.mail.aol.com [172.21.46.83])
  by omr-m23.mx.aol.com (v117.7) with ESMTP id MAILOMRM232-7df048864d751f7;
  Tue, 22 Jul 2008 17:13:25 -0400
 Received: from scomp@aol.net by scmp-m01.mail.aol.com; Tue, 22 Jul 2008
  17:13:22 EDT
-To: postmaster@websofttt.net
+To: postmaster@sendingdomain.net
 From: scomp@aol.net
 Date: Tue, 22 Jul 2008 17:13:22 EDT
 Subject: Email Feedback Report for IP 203.190.228.30
 MIME-Version: 1.0
 Content-Type: multipart/report; report-type=feedback-report; boundary="boundary-1138-29572-2659438-28583"
-X-AOL-INRLY: tky-caa.websofttt.net [203.190.228.30] scmp-m01
+X-AOL-INRLY: tky-caa.sendingdomain.net [203.190.228.30] scmp-m01
 X-Loop: scomp
 X-AOL-IP: 172.21.46.83
 Message-ID: <200807221713.7df048864d751f7@omr-m23.mx.aol.com>
@@ -60,7 +60,7 @@ User-Agent: AOL SComp
 Version: 0.1
 Received-Date: Tue, 22 Jul 2008 17:13:02 -0400
 Source-IP: 203.190.228.30
-Reported-Domain: tky-caa.websofttt.net
+Reported-Domain: tky-caa.sendingdomain.net
 Redacted-Address: redacted
 Redacted-Address: redacted@
 
@@ -71,17 +71,17 @@ Content-Disposition: inline
 
 Return-Path: <>
 Received: from rly-mh04.mx.aol.com (rly-mh04.mail.aol.com [172.21.166.140]) by air-mh03.mail.aol.com (v121.5) with ESMTP id MAILINMH033-bc948864d4212; Tue, 22 Jul 2008 17:13:02 -0400
-Received: from tky-caa.websofttt.net (tky-caa.websofttt.net [203.190.228.30]) by rly-mh04.mx.aol.com (v121.5) with ESMTP id MAILRELAYINMH041-bc948864d4212; Tue, 22 Jul 2008 17:12:35 -0400
+Received: from tky-caa.sendingdomain.net (tky-caa.sendingdomain.net [203.190.228.30]) by rly-mh04.mx.aol.com (v121.5) with ESMTP id MAILRELAYINMH041-bc948864d4212; Tue, 22 Jul 2008 17:12:35 -0400
 Received: from localhost (localhost)
-	by tky-caa.websofttt.net (8.13.1/8.13.1) id m6MIeO1a015502;
+	by tky-caa.sendingdomain.net (8.13.1/8.13.1) id m6MIeO1a015502;
 	Wed, 23 Jul 2008 06:12:33 +0900
 Date: Wed, 23 Jul 2008 06:12:33 +0900
-From: Mail Delivery Subsystem <MAILER-DAEMON@tky-caa.websofttt.net>
-Message-Id: <200807222112.m6MIeO1a015502@tky-caa.websofttt.net>
+From: Mail Delivery Subsystem <MAILER-DAEMON@tky-caa.sendingdomain.net>
+Message-Id: <200807222112.m6MIeO1a015502@tky-caa.sendingdomain.net>
 To: redacted@aol.com
 MIME-Version: 1.0
 Content-Type: multipart/report; report-type=delivery-status;
-	boundary="m6MIeO1a015502.1216761153/tky-caa.websofttt.net"
+	boundary="m6MIeO1a015502.1216761153/tky-caa.sendingdomain.net"
 Subject: Warning: could not send message for past 4 hours
 Auto-Submitted: auto-generated (warning-timeout)
 X-AOL-IP: 203.190.228.30
@@ -90,7 +90,7 @@ X-AOL-SCOLL-AUTHENTICATION: listenair ; SPF_822_from : n
 X-Mailer: Unknown (No Version)
 
 
---m6MIeO1a015502.1216761153/tky-caa.websofttt.net
+--m6MIeO1a015502.1216761153/tky-caa.sendingdomain.net
 
     **********************************************
     **      THIS IS A WARNING MESSAGE ONLY      **
@@ -105,8 +105,8 @@ from dsl85-107-9500.ttnet.net.tr [85.107.37.28] (may be forged)
 Warning: message still undelivered after 4 hours
 Will keep trying until message is 5 days old
 
---m6MIeO1a015502.1216761153/tky-caa.websofttt.net
-Reporting-MTA: dns; tky-caa.websofttt.net
+--m6MIeO1a015502.1216761153/tky-caa.sendingdomain.net
+Reporting-MTA: dns; tky-caa.sendingdomain.net
 Arrival-Date: Wed, 23 Jul 2008 01:37:50 +0900
 
 Final-Recipient: RFC822; 20060509155733.10210_25594@daijob.wir.jp
@@ -179,12 +179,12 @@ Remote-MTA: DNS; daijob.wir.jp
 Last-Attempt-Date: Wed, 23 Jul 2008 06:12:33 +0900
 Will-Retry-Until: Mon, 28 Jul 2008 01:37:50 +0900
 
---m6MIeO1a015502.1216761153/tky-caa.websofttt.net
+--m6MIeO1a015502.1216761153/tky-caa.sendingdomain.net
 Content-Type: message/rfc822
 
 Return-Path: <dstattic@aol.com>
 Received: from ahmet (dsl85-107-9500.ttnet.net.tr [85.107.37.28] (may be forged))
-	by tky-caa.websofttt.net (8.13.1/8.13.1) with ESMTP id m6MGbm4N001640;
+	by tky-caa.sendingdomain.net (8.13.1/8.13.1) with ESMTP id m6MGbm4N001640;
 	Wed, 23 Jul 2008 01:37:50 +0900
 Received: from [85.107.37.28] by mailin-03.mx.aol.com; Tue, 22 Jul 2008 18:37:49 +0200
 Message-ID: <01c8ec2a$0a8f3c80$1c256b55@dstattic>
@@ -334,7 +334,7 @@ ntly</strong></font>
 
 ------=_NextPart_000_0007_01C8EC2A.0A8F3C80--
 
---m6MIeO1a015502.1216761153/tky-caa.websofttt.net--
+--m6MIeO1a015502.1216761153/tky-caa.sendingdomain.net--
 
 
 --boundary-1138-29572-2659438-28583--

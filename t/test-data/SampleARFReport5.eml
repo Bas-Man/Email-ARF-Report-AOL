@@ -1,9 +1,9 @@
 Received: (qmail 30628 invoked by uid 1013); 23 Jul 2008 15:40:18 +0900
-Delivered-To: infra@websofttt.com
+Delivered-To: infra@sendingdomain.com
 Received: (qmail 30609 invoked by uid 1013); 23 Jul 2008 15:40:18 +0900
-Delivered-To: postmaster@websofttt.net
+Delivered-To: postmaster@sendingdomain.net
 Received: (qmail 30598 invoked by uid 1014); 23 Jul 2008 15:40:17 +0900
-Received: from 205.188.249.68 by tky-ch2.websofttt.net (envelope-from
+Received: from 205.188.249.68 by tky-ch2.sendingdomain.net (envelope-from
  <scomp@aol.net>, uid 1013) with qmail-scanner-1.25-st-qms  (clamdscan:
  0.90.2/3156. spamassassin: 3.1.7. perlscan: 1.25-st-qms.  
  Clear:RC:0(205.188.249.68):SA:0(0.6/5.0):.  Processed in 15.847566 secs); 23
@@ -13,24 +13,24 @@ X-Spam-Report: SA TESTS 1.0 NO_REAL_NAME           From: does not include a
  real name -2.6 BAYES_00               BODY: Bayesian spam probability is 0 to
  1% [score: 0.0000] 2.3 AWL                    AWL: From: address is in the
  auto white-list
-X-Antivirus-WebsoftTT-Mail-From: scomp@aol.net via tky-ch2.websofttt.net
-X-Antivirus-WebsoftTT: 1.25-st-qms
+X-Antivirus-sendingdomain-Mail-From: scomp@aol.net via tky-ch2.sendingdomain.net
+X-Antivirus-sendingdomain: 1.25-st-qms
  (Clear:RC:0(205.188.249.68):SA:0(0.6/5.0):. Processed in 15.847566 secs
  Process 30305)
-Received: from omr-d24.mx.aol.com (205.188.249.68) by tky-ch2.websofttt.net
+Received: from omr-d24.mx.aol.com (205.188.249.68) by tky-ch2.sendingdomain.net
  with SMTP; 23 Jul 2008 15:40:01 +0900
 Received: from scmp-d06.mail.aol.com (scmp-d06.mail.aol.com [172.18.176.225])
  by omr-d24.mx.aol.com (v117.7) with ESMTP id MAILOMRD244-7d7c4886d22793; Wed,
  23 Jul 2008 02:39:35 -0400
 Received: from scomp@aol.net by scmp-d06.mail.aol.com; Wed, 23 Jul 2008
  02:39:32 EDT
-To: postmaster@websofttt.net
+To: postmaster@sendingdomain.net
 From: scomp@aol.net
 Date: Wed, 23 Jul 2008 02:39:32 EDT
 Subject: Email Feedback Report for IP 203.190.229.244
 MIME-Version: 1.0
 Content-Type: multipart/report; report-type=feedback-report; boundary="boundary-1138-29572-2659438-18169"
-X-AOL-INRLY: tky-ijc.websofttt.net [203.190.229.244] scmp-d06
+X-AOL-INRLY: tky-ijc.sendingdomain.net [203.190.229.244] scmp-d06
 X-Loop: scomp
 X-AOL-IP: 172.18.176.225
 Message-ID: <200807230239.7d7c4886d22793@omr-d24.mx.aol.com>
@@ -61,7 +61,7 @@ User-Agent: AOL SComp
 Version: 0.1
 Received-Date: Wed, 23 Jul 2008 00:53:50 -0400
 Source-IP: 203.190.229.244
-Reported-Domain: tky-ijc.websofttt.net
+Reported-Domain: tky-ijc.sendingdomain.net
 Redacted-Address: redacted
 Redacted-Address: redacted@
 
@@ -70,11 +70,11 @@ Redacted-Address: redacted@
 Content-Type: message/rfc822
 Content-Disposition: inline
 
-Return-Path: <daijob.wir.jp_20080723134530.7891_16141@ret.websofttt.net>
+Return-Path: <daijob.wir.jp_20080723134530.7891_16141@ret.sendingdomain.net>
 Received: from rly-de01.mx.aol.com (rly-de01.mail.aol.com [172.19.170.137]) by air-de05.mail.aol.com (v121.5) with ESMTP id MAILINDE052-4ac4886b94c114; Wed, 23 Jul 2008 00:53:50 -0400
-Received: from tky-ijc.websofttt.net (tky-ijc.websofttt.net [203.190.229.244]) by rly-de01.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDE011-4ac4886b94c114; Wed, 23 Jul 2008 00:53:33 -0400
-Received: from localhost.localdomain (tky-ijc.websofttt.net [127.0.0.1])
-	by tky-ijc.websofttt.net (8.13.1/8.13.1) with ESMTP id m6N4rDfo031088
+Received: from tky-ijc.sendingdomain.net (tky-ijc.sendingdomain.net [203.190.229.244]) by rly-de01.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDE011-4ac4886b94c114; Wed, 23 Jul 2008 00:53:33 -0400
+Received: from localhost.localdomain (tky-ijc.sendingdomain.net [127.0.0.1])
+	by tky-ijc.sendingdomain.net (8.13.1/8.13.1) with ESMTP id m6N4rDfo031088
 	for <redacted>; Wed, 23 Jul 2008 13:53:32 +0900
 Content-Type: text/plain; charset=ISO-8859-1
 Content-Disposition: inline
@@ -216,7 +216,7 @@ The WorkinJapan.com Newsletter Issue 376
 ======================================================================
  Copyright 2008 Daijob, Inc. All rights reserved.
 
-Powered by WebSoftTT - Your Total E-Marketing Solution http://www.websofttt.com
+Powered by sendingdomain - Your Total E-Marketing Solution http://www.sendingdomain.com
 
 
 

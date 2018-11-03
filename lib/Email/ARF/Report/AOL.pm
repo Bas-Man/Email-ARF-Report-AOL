@@ -134,7 +134,7 @@ sub _returnpath {
   my $self = shift;
 
   ## This test will come back to bite me in the ass. 
-  if ($$self->{returnpath} =~ m/\@(ret|bounce)\.websofttt\.net/) {
+  if ($$self->{returnpath} =~ m/\@(ret|bounce)\.sendingdomain\.net/) {
     my ($domain,$distributionid,$seqid) = split (/_/,$$self->{returnpath});
     ## remove the leading < character if present
     $domain =~ s/<//g;

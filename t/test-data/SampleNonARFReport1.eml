@@ -1,6 +1,6 @@
 Received: (qmail 15821 invoked by uid 1014); 11 Aug 2008 10:27:45 +0900
-Received: from 210.196.156.222 by tky-ch2.websofttt.net (envelope-from
- <khirabayashi@websofttt.com>, uid 1013) with qmail-scanner-1.25-st-qms 
+Received: from 210.196.156.222 by tky-ch2.sendingdomain.net (envelope-from
+ <khirabayashi@sendingdomain.com>, uid 1013) with qmail-scanner-1.25-st-qms 
  (clamdscan: 0.90.2/3156. spamassassin: 3.1.7. perlscan: 1.25-st-qms.  
  Clear:RC:0(210.196.156.222):SA:0(-102.5/5.0):.  Processed in 2.688219 secs);
  11 Aug 2008 01:27:45 -0000
@@ -9,25 +9,25 @@ X-Spam-Report: SA TESTS -100 USER_IN_WHITELIST      From: address is in the
  user's white-list -2.6 BAYES_00               BODY: Bayesian spam probability
  is 0 to 1% [score: 0.0000] 0.1 AWL                    AWL: From: address is
  in the auto white-list
-X-Antivirus-WebsoftTT-Mail-From: khirabayashi@websofttt.com via
- tky-ch2.websofttt.net
-X-Antivirus-WebsoftTT: 1.25-st-qms
+X-Antivirus-sendingdomain-Mail-From: khirabayashi@sendingdomain.com via
+ tky-ch2.sendingdomain.net
+X-Antivirus-sendingdomain: 1.25-st-qms
  (Clear:RC:0(210.196.156.222):SA:0(-102.5/5.0):. Processed in 2.688219 secs
  Process 15813)
-Received: from tky-corp2.websofttt.net (HELO khirabayashi.tky.websofttt.net)
- (khirabayashi@websofttt.com@210.196.156.222) by tky-ch2.websofttt.net with
+Received: from tky-corp2.sendingdomain.net (HELO khirabayashi.tky.sendingdomain.net)
+ (khirabayashi@sendingdomain.com@210.196.156.222) by tky-ch2.sendingdomain.net with
  AES256-SHA encrypted SMTP; 11 Aug 2008 10:27:42 +0900
-Message-ID: <489F958E.7070006@websofttt.com>
+Message-ID: <489F958E.7070006@sendingdomain.com>
 Date: Mon, 11 Aug 2008 10:27:42 +0900
-From: Kyo Hirabayashi <khirabayashi@websofttt.com>
-Reply-To: khirabayashi@websofttt.com
+From: Kyo Hirabayashi <khirabayashi@sendingdomain.com>
+Reply-To: khirabayashi@sendingdomain.com
 User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16)
  Gecko/20080707 Thunderbird/2.0.0.16 Mnenhy/0.7.5.666
 MIME-Version: 1.0
-To: Hideki Machida <hmachida@websofttt.com>,  Adam Spann
- <aspann@websofttt.com>, Stefan Blomqwist <sblomqwist@websofttt.com>,  Elle
- Zhao <ezhao@websofttt.com>
-CC: Hideo NAKAMITSU <hnakamitsu@websofttt.com>
+To: Hideki Machida <hmachida@sendingdomain.com>,  Adam Spann
+ <aspann@sendingdomain.com>, Stefan Blomqwist <sblomqwist@sendingdomain.com>,  Elle
+ Zhao <ezhao@sendingdomain.com>
+CC: Hideo NAKAMITSU <hnakamitsu@sendingdomain.com>
 Subject: test email addresses
 Content-Type: text/plain; charset=UTF-8; format=flowed
 Content-Transfer-Encoding: 7bit
@@ -39,7 +39,7 @@ Whenever we create test users in the BR system with bogus email
 addresses, it causes the mail server queue to be constantly filled with 
 bogus emails.
 
-Please use websofttt.com as the domain for the email, whenever you need 
+Please use sendingdomain.com as the domain for the email, whenever you need 
 to create test users.
 
 Thanks,

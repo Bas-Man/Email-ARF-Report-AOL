@@ -1,9 +1,9 @@
 Received: (qmail 5229 invoked by uid 1013); 18 Jul 2008 00:17:55 +0900
-Delivered-To: infra@websofttt.com
+Delivered-To: infra@sendingdomain.com
 Received: (qmail 5219 invoked by uid 1013); 18 Jul 2008 00:17:55 +0900
-Delivered-To: postmaster@websofttt.net
+Delivered-To: postmaster@sendingdomain.net
 Received: (qmail 5214 invoked by uid 1014); 18 Jul 2008 00:17:55 +0900
-Received: from 205.188.249.69 by tky-ch2.websofttt.net (envelope-from
+Received: from 205.188.249.69 by tky-ch2.sendingdomain.net (envelope-from
  <scomp@aol.net>, uid 1013) with qmail-scanner-1.25-st-qms  (clamdscan:
  0.90.2/3156. spamassassin: 3.1.7. perlscan: 1.25-st-qms.  
  Clear:RC:0(205.188.249.69):SA:0(0.6/5.0):.  Processed in 6.443988 secs); 17
@@ -13,24 +13,24 @@ X-Spam-Report: SA TESTS 1.0 NO_REAL_NAME           From: does not include a
  real name -2.6 BAYES_00               BODY: Bayesian spam probability is 0 to
  1% [score: 0.0000] 0.0 HTML_MESSAGE           BODY: HTML included in message
  2.3 AWL                    AWL: From: address is in the auto white-list
-X-Antivirus-WebsoftTT-Mail-From: scomp@aol.net via tky-ch2.websofttt.net
-X-Antivirus-WebsoftTT: 1.25-st-qms
+X-Antivirus-sendingdomain-Mail-From: scomp@aol.net via tky-ch2.sendingdomain.net
+X-Antivirus-sendingdomain: 1.25-st-qms
  (Clear:RC:0(205.188.249.69):SA:0(0.6/5.0):. Processed in 6.443988 secs
  Process 5205)
-Received: from omr-d25.mx.aol.com (205.188.249.69) by tky-ch2.websofttt.net
+Received: from omr-d25.mx.aol.com (205.188.249.69) by tky-ch2.sendingdomain.net
  with SMTP; 18 Jul 2008 00:17:48 +0900
 Received: from scmp-m34.mail.aol.com (scmp-m34.mail.aol.com [172.21.46.79])
  by omr-d25.mx.aol.com (v117.7) with ESMTP id MAILOMRD254-7d86487f628f20c;
  Thu, 17 Jul 2008 11:17:35 -0400
 Received: from scomp@aol.net by scmp-m34.mail.aol.com; Thu, 17 Jul 2008
  11:17:34 EDT
-To: postmaster@websofttt.net
+To: postmaster@sendingdomain.net
 From: scomp@aol.net
 Date: Thu, 17 Jul 2008 11:17:34 EDT
 Subject: Email Feedback Report for IP 203.190.229.240
 MIME-Version: 1.0
 Content-Type: multipart/report; report-type=feedback-report; boundary="boundary-1138-29572-2659438-5861"
-X-AOL-INRLY: tky-ija.websofttt.net [203.190.229.240] scmp-m34
+X-AOL-INRLY: tky-ija.sendingdomain.net [203.190.229.240] scmp-m34
 X-Loop: scomp
 X-AOL-IP: 172.21.46.79
 Message-ID: <200807171117.7d86487f628f20c@omr-d25.mx.aol.com>
@@ -61,7 +61,7 @@ User-Agent: AOL SComp
 Version: 0.1
 Received-Date: Thu, 17 Jul 2008 04:52:27 -0400
 Source-IP: 203.190.229.240
-Reported-Domain: tky-ija.websofttt.net
+Reported-Domain: tky-ija.sendingdomain.net
 Redacted-Address: redacted
 Redacted-Address: redacted@
 
@@ -70,11 +70,11 @@ Redacted-Address: redacted@
 Content-Type: message/rfc822
 Content-Disposition: inline
 
-Return-Path: <as.wir.jp_20080717174938.29765_3762@ret.websofttt.net>
+Return-Path: <as.wir.jp_20080717174938.29765_3762@ret.sendingdomain.net>
 Received: from rly-df10.mx.aol.com (rly-df10.mail.aol.com [172.19.156.23]) by air-df07.mail.aol.com (v121.5) with ESMTP id MAILINDF074-585487f083c2f1; Thu, 17 Jul 2008 04:52:27 -0400
-Received: from tky-ija.websofttt.net (tky-ija.websofttt.net [203.190.229.240]) by rly-df10.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDF108-585487f083c2f1; Thu, 17 Jul 2008 04:52:12 -0400
+Received: from tky-ija.sendingdomain.net (tky-ija.sendingdomain.net [203.190.229.240]) by rly-df10.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDF108-585487f083c2f1; Thu, 17 Jul 2008 04:52:12 -0400
 Received: from localhost.localdomain (localhost.localdomain [127.0.0.1])
-	by tky-ija.websofttt.net (8.13.1/8.13.1) with ESMTP id m6H8puVO017941
+	by tky-ija.sendingdomain.net (8.13.1/8.13.1) with ESMTP id m6H8puVO017941
 	for <redacted>; Thu, 17 Jul 2008 17:52:11 +0900
 Content-Type: multipart/alternative; boundary="----------=_1216284579-29767-0"
 MIME-Version: 1.0
@@ -113,7 +113,7 @@ http://www.japanevents.net
 Content-Type: text/html; charset=ISO-8859-1
 Content-Disposition: inline
 Content-Transfer-Encoding: quoted-printable
-X-MIME-Autoconverted: from 8bit to quoted-printable by tky-ija.websofttt.net id m6H8puVO017941
+X-MIME-Autoconverted: from 8bit to quoted-printable by tky-ija.sendingdomain.net id m6H8puVO017941
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
@@ -540,7 +540,7 @@ ank">my=20
 t?t=3D42zGsqtp" target=3D"_blank">CVP</a>=20
                 site. I use a service by <a href=3D"http://as.wir.jp/d.ut?t=
 =3D433DDSLp">
-                WebSoftTT</a> to send the mail and track link clicks so I kn=
+                sendingdomain</a> to send the mail and track link clicks so I kn=
 ow=20
                 what people are interested in. If you don't want to receive=20=
 the=20

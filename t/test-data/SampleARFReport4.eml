@@ -1,9 +1,9 @@
 Received: (qmail 9173 invoked by uid 1013); 21 Jul 2008 14:45:08 +0900
-Delivered-To: infra@websofttt.com
+Delivered-To: infra@sendingdomain.com
 Received: (qmail 9163 invoked by uid 1013); 21 Jul 2008 14:45:08 +0900
-Delivered-To: postmaster@websofttt.net
+Delivered-To: postmaster@sendingdomain.net
 Received: (qmail 9158 invoked by uid 1014); 21 Jul 2008 14:45:08 +0900
-Received: from 64.12.136.130 by tky-ch2.websofttt.net (envelope-from
+Received: from 64.12.136.130 by tky-ch2.sendingdomain.net (envelope-from
  <scomp@aol.net>, uid 1013) with qmail-scanner-1.25-st-qms  (clamdscan:
  0.90.2/3156. spamassassin: 3.1.7. perlscan: 1.25-st-qms.  
  Clear:RC:0(64.12.136.130):SA:0(1.8/5.0):.  Processed in 3.587027 secs); 21
@@ -17,23 +17,23 @@ X-Spam-Report: SA TESTS 1.0 NO_REAL_NAME           From: does not include a
  1% [score: 0.0000] 0.0 HTML_MESSAGE           BODY: HTML included in message
  0.2 MIME_BASE64_NO_NAME    RAW: base64 attachment does not have a file name
  1.1 AWL                    AWL: From: address is in the auto white-list
-X-Antivirus-WebsoftTT-Mail-From: scomp@aol.net via tky-ch2.websofttt.net
-X-Antivirus-WebsoftTT: 1.25-st-qms (Clear:RC:0(64.12.136.130):SA:0(1.8/5.0):.
+X-Antivirus-sendingdomain-Mail-From: scomp@aol.net via tky-ch2.sendingdomain.net
+X-Antivirus-sendingdomain: 1.25-st-qms (Clear:RC:0(64.12.136.130):SA:0(1.8/5.0):.
  Processed in 3.587027 secs Process 9150)
-Received: from omr-m22.mx.aol.com (64.12.136.130) by tky-ch2.websofttt.net
+Received: from omr-m22.mx.aol.com (64.12.136.130) by tky-ch2.sendingdomain.net
  with SMTP; 21 Jul 2008 14:45:04 +0900
 Received: from scmp-m31.mail.aol.com (scmp-m31.mail.aol.com [172.21.46.76])
  by omr-m22.mx.aol.com (v117.7) with ESMTP id MAILOMRM227-7ded488422571f; Mon,
  21 Jul 2008 01:44:56 -0400
 Received: from scomp@aol.net by scmp-m31.mail.aol.com; Mon, 21 Jul 2008
  01:44:55 EDT
-To: postmaster@websofttt.net
+To: postmaster@sendingdomain.net
 From: scomp@aol.net
 Date: Mon, 21 Jul 2008 01:44:55 EDT
 Subject: Email Feedback Report for IP 203.190.229.242
 MIME-Version: 1.0
 Content-Type: multipart/report; report-type=feedback-report; boundary="boundary-1138-29572-2659438-10257"
-X-AOL-INRLY: tky-ijb.websofttt.net [203.190.229.242] scmp-m31
+X-AOL-INRLY: tky-ijb.sendingdomain.net [203.190.229.242] scmp-m31
 X-Loop: scomp
 X-AOL-IP: 172.21.46.76
 Message-ID: <200807210144.7ded488422571f@omr-m22.mx.aol.com>
@@ -64,7 +64,7 @@ User-Agent: AOL SComp
 Version: 0.1
 Received-Date: Mon, 14 Jul 2008 21:01:23 -0400
 Source-IP: 203.190.229.242
-Reported-Domain: tky-ijb.websofttt.net
+Reported-Domain: tky-ijb.sendingdomain.net
 Redacted-Address: redacted
 Redacted-Address: redacted@
 
@@ -73,11 +73,11 @@ Redacted-Address: redacted@
 Content-Type: message/rfc822
 Content-Disposition: inline
 
-Return-Path: <puritan.wir.jp_20080715095852.22591_4576@ret.websofttt.net>
+Return-Path: <puritan.wir.jp_20080715095852.22591_4576@ret.sendingdomain.net>
 Received: from rly-df03.mx.aol.com (rly-df03.mail.aol.com [172.19.156.16]) by air-df07.mail.aol.com (v121.5) with ESMTP id MAILINDF072-53e487bf6cf32f; Mon, 14 Jul 2008 21:01:23 -0400
-Received: from tky-ijb.websofttt.net (tky-ijb.websofttt.net [203.190.229.242]) by rly-df03.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDF037-53e487bf6cf32f; Mon, 14 Jul 2008 21:01:04 -0400
+Received: from tky-ijb.sendingdomain.net (tky-ijb.sendingdomain.net [203.190.229.242]) by rly-df03.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDF037-53e487bf6cf32f; Mon, 14 Jul 2008 21:01:04 -0400
 Received: from localhost.localdomain (localhost.localdomain [127.0.0.1])
-	by tky-ijb.websofttt.net (8.13.1/8.13.1) with ESMTP id m6F10WGW006248
+	by tky-ijb.sendingdomain.net (8.13.1/8.13.1) with ESMTP id m6F10WGW006248
 	for <redacted>; Tue, 15 Jul 2008 10:01:02 +0900
 Content-Type: multipart/alternative; boundary="----------=_1216083533-22593-0"
 MIME-Version: 1.0
@@ -204,7 +204,7 @@ Content-Transfer-Encoding: 7bit
 Content-Type: text/html; charset=Shift_JIS
 Content-Disposition: inline
 Content-Transfer-Encoding: base64
-X-MIME-Autoconverted: from 8bit to base64 by tky-ijb.websofttt.net id m6F10WGW006248
+X-MIME-Autoconverted: from 8bit to base64 by tky-ijb.sendingdomain.net id m6F10WGW006248
 
 PEhUTUw+CjxIRUFEPgo8TUVUQSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9
 InRleHQvaHRtbDsgY2hhcnNldD1TaGlmdF9KSVMiPgo8VElUTEU+UHVyaXRhbi5qcCCDVIN2

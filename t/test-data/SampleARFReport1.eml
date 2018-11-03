@@ -1,9 +1,9 @@
 Received: (qmail 27343 invoked by uid 1013); 18 Jul 2008 02:51:18 +0900
-Delivered-To: infra@websofttt.com
+Delivered-To: infra@sendingdomain.com
 Received: (qmail 27326 invoked by uid 1013); 18 Jul 2008 02:51:18 +0900
-Delivered-To: postmaster@websofttt.net
+Delivered-To: postmaster@sendingdomain.net
 Received: (qmail 27313 invoked by uid 1014); 18 Jul 2008 02:51:17 +0900
-Received: from 205.188.249.66 by tky-ch2.websofttt.net (envelope-from
+Received: from 205.188.249.66 by tky-ch2.sendingdomain.net (envelope-from
  <scomp@aol.net>, uid 1013) with qmail-scanner-1.25-st-qms  (clamdscan:
  0.90.2/3156. spamassassin: 3.1.7. perlscan: 1.25-st-qms.  
  Clear:RC:0(205.188.249.66):SA:0(1.2/5.0):.  Processed in 4.65191 secs); 17
@@ -15,24 +15,24 @@ X-Spam-Report: SA TESTS 1.0 NO_REAL_NAME           From: does not include a
  1% [score: 0.0000] 1.1 MIME_HTML_MOSTLY       BODY: Multipart message mostly
  text/html MIME 0.0 HTML_MESSAGE           BODY: HTML included in message 1.7
  AWL                    AWL: From: address is in the auto white-list
-X-Antivirus-WebsoftTT-Mail-From: scomp@aol.net via tky-ch2.websofttt.net
-X-Antivirus-WebsoftTT: 1.25-st-qms
+X-Antivirus-sendingdomain-Mail-From: scomp@aol.net via tky-ch2.sendingdomain.net
+X-Antivirus-sendingdomain: 1.25-st-qms
  (Clear:RC:0(205.188.249.66):SA:0(1.2/5.0):. Processed in 4.65191 secs Process
  27267)
-Received: from omr-d22.mx.aol.com (205.188.249.66) by tky-ch2.websofttt.net
+Received: from omr-d22.mx.aol.com (205.188.249.66) by tky-ch2.sendingdomain.net
  with SMTP; 18 Jul 2008 02:51:12 +0900
 Received: from scmp-d46.mail.aol.com (scmp-d46.mail.aol.com [172.19.132.209])
  by omr-d22.mx.aol.com (v117.7) with ESMTP id MAILOMRD224-7d65487f867ae8; Thu,
  17 Jul 2008 13:50:50 -0400
 Received: from scomp@aol.net by scmp-d46.mail.aol.com; Thu, 17 Jul 2008
  13:50:49 EDT
-To: postmaster@websofttt.net
+To: postmaster@sendingdomain.net
 From: scomp@aol.net
 Date: Thu, 17 Jul 2008 13:50:49 EDT
 Subject: Email Feedback Report for IP 203.190.229.246
 MIME-Version: 1.0
 Content-Type: multipart/report; report-type=feedback-report; boundary="boundary-1138-29572-2659438-31855"
-X-AOL-INRLY: tky-ijd.websofttt.net [203.190.229.246] scmp-d46
+X-AOL-INRLY: tky-ijd.sendingdomain.net [203.190.229.246] scmp-d46
 X-Loop: scomp
 X-AOL-IP: 172.19.132.209
 Message-ID: <200807171350.7d65487f867ae8@omr-d22.mx.aol.com>
@@ -63,7 +63,7 @@ User-Agent: AOL SComp
 Version: 0.1
 Received-Date: Thu, 17 Jul 2008 01:26:44 -0400
 Source-IP: 203.190.229.246
-Reported-Domain: tky-ijd.websofttt.net
+Reported-Domain: tky-ijd.sendingdomain.net
 Redacted-Address: redacted
 Redacted-Address: redacted@
 
@@ -72,11 +72,11 @@ Redacted-Address: redacted@
 Content-Type: message/rfc822
 Content-Disposition: inline
 
-Return-Path: <englishok.wir.jp_20080717142549.29336_331@ret.websofttt.net>
+Return-Path: <englishok.wir.jp_20080717142549.29336_331@ret.sendingdomain.net>
 Received: from rly-db01.mx.aol.com (rly-db01.mail.aol.com [172.19.130.76]) by air-db04.mail.aol.com (v121.5) with ESMTP id MAILINDB041-aa8487ed80561; Thu, 17 Jul 2008 01:26:44 -0400
-Received: from tky-ijd.websofttt.net (tky-ijd.websofttt.net [203.190.229.246]) by rly-db01.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDB016-aa8487ed80561; Thu, 17 Jul 2008 01:26:30 -0400
+Received: from tky-ijd.sendingdomain.net (tky-ijd.sendingdomain.net [203.190.229.246]) by rly-db01.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDB016-aa8487ed80561; Thu, 17 Jul 2008 01:26:30 -0400
 Received: from localhost.localdomain (localhost.localdomain [127.0.0.1])
-	by tky-ijd.websofttt.net (8.13.1/8.13.1) with ESMTP id m6H5PqYh015008
+	by tky-ijd.sendingdomain.net (8.13.1/8.13.1) with ESMTP id m6H5PqYh015008
 	for <redacted>; Thu, 17 Jul 2008 14:26:28 +0900
 Content-Type: multipart/alternative; boundary="----------=_1216272350-29338-0"
 MIME-Version: 1.0
@@ -96,7 +96,7 @@ X-Mailer: Unknown (No Version)
 Content-Type: text/html; charset=UTF-8
 Content-Disposition: inline
 Content-Transfer-Encoding: quoted-printable
-X-MIME-Autoconverted: from 8bit to quoted-printable by tky-ijd.websofttt.net id m6H5PqYh015008
+X-MIME-Autoconverted: from 8bit to quoted-printable by tky-ijd.sendingdomain.net id m6H5PqYh015008
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w=
 3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">

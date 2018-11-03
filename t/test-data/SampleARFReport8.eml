@@ -1,9 +1,9 @@
 Received: (qmail 26773 invoked by uid 1013); 27 Jul 2008 04:10:11 +0900
-Delivered-To: infra@websofttt.com
+Delivered-To: infra@sendingdomain.com
 Received: (qmail 26763 invoked by uid 1013); 27 Jul 2008 04:10:11 +0900
-Delivered-To: postmaster@websofttt.net
+Delivered-To: postmaster@sendingdomain.net
 Received: (qmail 26758 invoked by uid 1014); 27 Jul 2008 04:10:11 +0900
-Received: from 205.188.249.67 by tky-ch2.websofttt.net (envelope-from
+Received: from 205.188.249.67 by tky-ch2.sendingdomain.net (envelope-from
  <scomp@aol.net>, uid 1013) with qmail-scanner-1.25-st-qms  (clamdscan:
  0.90.2/3156. spamassassin: 3.1.7. perlscan: 1.25-st-qms.  
  Clear:RC:0(205.188.249.67):SA:0(0.6/5.0):.  Processed in 2.727432 secs); 26
@@ -13,24 +13,24 @@ X-Spam-Report: SA TESTS 1.0 NO_REAL_NAME           From: does not include a
  real name -2.6 BAYES_00               BODY: Bayesian spam probability is 0 to
  1% [score: 0.0000] 2.3 AWL                    AWL: From: address is in the
  auto white-list
-X-Antivirus-WebsoftTT-Mail-From: scomp@aol.net via tky-ch2.websofttt.net
-X-Antivirus-WebsoftTT: 1.25-st-qms
+X-Antivirus-sendingdomain-Mail-From: scomp@aol.net via tky-ch2.sendingdomain.net
+X-Antivirus-sendingdomain: 1.25-st-qms
  (Clear:RC:0(205.188.249.67):SA:0(0.6/5.0):. Processed in 2.727432 secs
  Process 26750)
-Received: from omr-d23.mx.aol.com (205.188.249.67) by tky-ch2.websofttt.net
+Received: from omr-d23.mx.aol.com (205.188.249.67) by tky-ch2.sendingdomain.net
  with SMTP; 27 Jul 2008 04:10:08 +0900
 Received: from scmp-m28.mail.aol.com (scmp-m28.mail.aol.com [172.20.95.148])
  by omr-d23.mx.aol.com (v117.7) with ESMTP id MAILOMRD238-7d77488b768e141;
  Sat, 26 Jul 2008 15:10:06 -0400
 Received: from scomp@aol.net by scmp-m28.mail.aol.com; Sat, 26 Jul 2008
  15:10:03 EDT
-To: postmaster@websofttt.net
+To: postmaster@sendingdomain.net
 From: scomp@aol.net
 Date: Sat, 26 Jul 2008 15:10:03 EDT
 Subject: Email Feedback Report for IP 203.190.228.30
 MIME-Version: 1.0
 Content-Type: multipart/report; report-type=feedback-report; boundary="boundary-1138-29572-2659438-26001"
-X-AOL-INRLY: tky-caa.websofttt.net [203.190.228.30] scmp-m28
+X-AOL-INRLY: tky-caa.sendingdomain.net [203.190.228.30] scmp-m28
 X-Loop: scomp
 X-AOL-IP: 172.20.95.148
 Message-ID: <200807261510.7d77488b768e141@omr-d23.mx.aol.com>
@@ -61,7 +61,7 @@ User-Agent: AOL SComp
 Version: 0.1
 Received-Date: Fri, 25 Jul 2008 04:09:34 -0400
 Source-IP: 203.190.228.30
-Reported-Domain: tky-caa.websofttt.net
+Reported-Domain: tky-caa.sendingdomain.net
 Redacted-Address: redacted
 Redacted-Address: redacted@
 
@@ -72,13 +72,13 @@ Content-Disposition: inline
 
 Return-Path: <tt@wir.jp>
 Received: from rly-de05.mx.aol.com (rly-de05.mail.aol.com [172.19.170.141]) by air-de07.mail.aol.com (v121.5) with ESMTP id MAILINDE074-4d448898a364f; Fri, 25 Jul 2008 04:09:34 -0400
-Received: from tky-caa.websofttt.net (tky-caa.websofttt.net [203.190.228.30]) by rly-de05.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDE051-4d448898a364f; Fri, 25 Jul 2008 04:09:28 -0400
-Received: from localhost.localdomain (localhost.websofttt.net [127.0.0.1])
-	by tky-caa.websofttt.net (8.13.1/8.13.1) with ESMTP id m6P89P7v007615
+Received: from tky-caa.sendingdomain.net (tky-caa.sendingdomain.net [203.190.228.30]) by rly-de05.mx.aol.com (v121.5) with ESMTP id MAILRELAYINDE051-4d448898a364f; Fri, 25 Jul 2008 04:09:28 -0400
+Received: from localhost.localdomain (localhost.sendingdomain.net [127.0.0.1])
+	by tky-caa.sendingdomain.net (8.13.1/8.13.1) with ESMTP id m6P89P7v007615
 	for <redacted>; Fri, 25 Jul 2008 17:09:25 +0900
 Date: Fri, 25 Jul 2008 17:09:25 +0900
 From: tt@wir.jp
-Message-Id: <200807250809.m6P89P7v007615@tky-caa.websofttt.net>
+Message-Id: <200807250809.m6P89P7v007615@tky-caa.sendingdomain.net>
 To: redacted@aol.com
 Subject: Re: Dating for u  245
 X-AOL-IP: 203.190.228.30
