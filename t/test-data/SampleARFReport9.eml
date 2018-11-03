@@ -96,19 +96,19 @@ The original message was received at Wed, 23 Jul 2008 01:37:50 +0900
 from dsl85-107-9500.ttnet.net.tr [85.107.37.28] (may be forged)
 
    ----- The following addresses had permanent fatal errors -----
-<20060509155733.10210_25594@daijob.wir.jp>
-<20060509155733.10210_2322@daijob.wir.jp>
-<20060425145610.31782_25525@daijob.wir.jp>
-<20060425145610.31782_2307@daijob.wir.jp>
-<20060209105126.9639_19084@daijob.wir.jp>
-<20060207152706.25439_25837@daijob.wir.jp>
-<20060207152706.25439_2325@daijob.wir.jp>
-<20060207152706.25439_20210@daijob.wir.jp>
-<20060131131710.1029_25842@daijob.wir.jp>
-<20060131131710.1029_2325@daijob.wir.jp>
+<20060509155733.10210_25594@sendersdomain.wir.jp>
+<20060509155733.10210_2322@sendersdomain.wir.jp>
+<20060425145610.31782_25525@sendersdomain.wir.jp>
+<20060425145610.31782_2307@sendersdomain.wir.jp>
+<20060209105126.9639_19084@sendersdomain.wir.jp>
+<20060207152706.25439_25837@sendersdomain.wir.jp>
+<20060207152706.25439_2325@sendersdomain.wir.jp>
+<20060207152706.25439_20210@sendersdomain.wir.jp>
+<20060131131710.1029_25842@sendersdomain.wir.jp>
+<20060131131710.1029_2325@sendersdomain.wir.jp>
 
    ----- Transcript of session follows -----
-<20060131131710.1029_2325@daijob.wir.jp>,<20060131131710.1029_25842@daijob.wir.jp>,<20060207152706.2...@daijob.wir.jp>,<20060509155733.10210_2322@daijob.wir.jp>,<20060509155733.10210_25594@daijob.wir.jp>... Deferred: Connection timed out with daijob.wir.jp.
+<20060131131710.1029_2325@sendersdomain.wir.jp>,<20060131131710.1029_25842@sendersdomain.wir.jp>,<20060207152706.2...@sendersdomain.wir.jp>,<20060509155733.10210_2322@sendersdomain.wir.jp>,<20060509155733.10210_25594@sendersdomain.wir.jp>... Deferred: Connection timed out with sendersdomain.wir.jp.
 Message could not be delivered for 5 days
 Message will be deleted from queue
 
@@ -116,64 +116,64 @@ Message will be deleted from queue
 Reporting-MTA: dns; tky-caa.sendingdomain.net
 Arrival-Date: Wed, 23 Jul 2008 01:37:50 +0900
 
-Final-Recipient: RFC822; 20060509155733.10210_25594@daijob.wir.jp
+Final-Recipient: RFC822; 20060509155733.10210_25594@sendersdomain.wir.jp
 Action: failed
 Status: 4.4.7
-Remote-MTA: DNS; daijob.wir.jp
+Remote-MTA: DNS; sendersdomain.wir.jp
 Last-Attempt-Date: Mon, 28 Jul 2008 01:45:33 +0900
 
-Final-Recipient: RFC822; 20060509155733.10210_2322@daijob.wir.jp
+Final-Recipient: RFC822; 20060509155733.10210_2322@sendersdomain.wir.jp
 Action: failed
 Status: 4.4.7
-Remote-MTA: DNS; daijob.wir.jp
+Remote-MTA: DNS; sendersdomain.wir.jp
 Last-Attempt-Date: Mon, 28 Jul 2008 01:45:33 +0900
 
-Final-Recipient: RFC822; 20060425145610.31782_25525@daijob.wir.jp
+Final-Recipient: RFC822; 20060425145610.31782_25525@sendersdomain.wir.jp
 Action: failed
 Status: 4.4.7
-Remote-MTA: DNS; daijob.wir.jp
+Remote-MTA: DNS; sendersdomain.wir.jp
 Last-Attempt-Date: Mon, 28 Jul 2008 01:45:33 +0900
 
-Final-Recipient: RFC822; 20060425145610.31782_2307@daijob.wir.jp
+Final-Recipient: RFC822; 20060425145610.31782_2307@sendersdomain.wir.jp
 Action: failed
 Status: 4.4.7
-Remote-MTA: DNS; daijob.wir.jp
+Remote-MTA: DNS; sendersdomain.wir.jp
 Last-Attempt-Date: Mon, 28 Jul 2008 01:45:33 +0900
 
-Final-Recipient: RFC822; 20060209105126.9639_19084@daijob.wir.jp
+Final-Recipient: RFC822; 20060209105126.9639_19084@sendersdomain.wir.jp
 Action: failed
 Status: 4.4.7
-Remote-MTA: DNS; daijob.wir.jp
+Remote-MTA: DNS; sendersdomain.wir.jp
 Last-Attempt-Date: Mon, 28 Jul 2008 01:45:33 +0900
 
-Final-Recipient: RFC822; 20060207152706.25439_25837@daijob.wir.jp
+Final-Recipient: RFC822; 20060207152706.25439_25837@sendersdomain.wir.jp
 Action: failed
 Status: 4.4.7
-Remote-MTA: DNS; daijob.wir.jp
+Remote-MTA: DNS; sendersdomain.wir.jp
 Last-Attempt-Date: Mon, 28 Jul 2008 01:45:33 +0900
 
-Final-Recipient: RFC822; 20060207152706.25439_2325@daijob.wir.jp
+Final-Recipient: RFC822; 20060207152706.25439_2325@sendersdomain.wir.jp
 Action: failed
 Status: 4.4.7
-Remote-MTA: DNS; daijob.wir.jp
+Remote-MTA: DNS; sendersdomain.wir.jp
 Last-Attempt-Date: Mon, 28 Jul 2008 01:45:33 +0900
 
-Final-Recipient: RFC822; 20060207152706.25439_20210@daijob.wir.jp
+Final-Recipient: RFC822; 20060207152706.25439_20210@sendersdomain.wir.jp
 Action: failed
 Status: 4.4.7
-Remote-MTA: DNS; daijob.wir.jp
+Remote-MTA: DNS; sendersdomain.wir.jp
 Last-Attempt-Date: Mon, 28 Jul 2008 01:45:33 +0900
 
-Final-Recipient: RFC822; 20060131131710.1029_25842@daijob.wir.jp
+Final-Recipient: RFC822; 20060131131710.1029_25842@sendersdomain.wir.jp
 Action: failed
 Status: 4.4.7
-Remote-MTA: DNS; daijob.wir.jp
+Remote-MTA: DNS; sendersdomain.wir.jp
 Last-Attempt-Date: Mon, 28 Jul 2008 01:45:33 +0900
 
-Final-Recipient: RFC822; 20060131131710.1029_2325@daijob.wir.jp
+Final-Recipient: RFC822; 20060131131710.1029_2325@sendersdomain.wir.jp
 Action: failed
 Status: 4.4.7
-Remote-MTA: DNS; daijob.wir.jp
+Remote-MTA: DNS; sendersdomain.wir.jp
 Last-Attempt-Date: Mon, 28 Jul 2008 01:45:33 +0900
 
 --m6QJeTdk022326.1217177133/tky-caa.sendingdomain.net
@@ -186,7 +186,7 @@ Received: from ahmet (dsl85-107-9500.ttnet.net.tr [85.107.37.28] (may be forged)
 Received: from [85.107.37.28] by mailin-03.mx.aol.com; Tue, 22 Jul 2008 18:37:49 +0200
 Message-ID: <01c8ec2a$0a8f3c80$1c256b55@dstattic>
 From: "Reyna Barlow" <dstattic@aol.com>
-To: <20060425145610.31782_2307@daijob.wir.jp>
+To: <20060425145610.31782_2307@sendersdomain.wir.jp>
 Subject: International Dating 215
 Date: Tue, 22 Jul 2008 18:37:49 +0200
 MIME-Version: 1.0
